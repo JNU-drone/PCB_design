@@ -1,0 +1,2 @@
+# PCB_design
+这是放我们原理图和PCB文件的仓库，有的是嘉立创打开，有的是AltiumDesigner打开
